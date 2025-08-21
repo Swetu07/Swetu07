@@ -29,7 +29,7 @@
 ### 🌍 Connect with Me  
 - 📧 Email: swetankkumar15f@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/swetank-kumar-703086307)  
-- 🌐 Portfolio (coming soon...)  
+- 🌐 [Leetcode](https://leetcode.com/u/swetu07/)
 
 ---
 
